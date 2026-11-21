@@ -5,7 +5,7 @@
 <h1 align="center">hi, i'm nikhil!</h1>
 
 <p align="center">
-  <a href="https://nikhilbandi.netlify.app/"><img src="./assets/88x31.gif" alt="NikBandi" width="88" height="31" /></a>
+  <a href="https://nikhilbandi.netlify.app/"><img src="./assets/88x31-cat.gif" alt="NikBandi" width="88" height="31" /></a>
 </p>
 
 <h3 align="center">welcome to my profile ~ </h3>
