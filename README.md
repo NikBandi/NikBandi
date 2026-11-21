@@ -8,7 +8,7 @@
   <a href="https://nikhilbandi.netlify.app/"><img src="./assets/88x31.gif" alt="NikBandi" width="88" height="31" /></a>
 </p>
 
-<h3 align="center">welcome to my profile ~ 🔥</h3>
+<h3 align="center">welcome to my profile ~ </h3>
 
 <p align="center">
   student · developer · fueled by anime and too much boba
