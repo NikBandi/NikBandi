@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./assets/miyamura.gif" alt="Izumi Miyamura" width="50%" />
-  <!-- swap for Miyamura: <img src="./assets/miyamura.gif" alt="Miyamura" width="35%" /> -->
+  <img src="./assets/miyamura-chibi.gif" alt="Izumi Miyamura" width="260" />
 </p>
 
 <h1 align="center">hi, i'm nikhil!</h1>
