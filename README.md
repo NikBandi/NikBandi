@@ -11,7 +11,7 @@
 <h3 align="center">welcome to my profile ~ 🔥</h3>
 
 <p align="center">
-  student · developer · fueled by anime and too much coffee
+  student · developer · fueled by anime and too much boba
 </p>
 
 <p align="center">
