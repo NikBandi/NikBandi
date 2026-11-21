@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ace.gif" alt="Portgas D. Ace" width="50%" />
+  <img src="./assets/miyamura.gif" alt="Izumi Miyamura" width="50%" />
   <!-- swap for Miyamura: <img src="./assets/miyamura.gif" alt="Miyamura" width="35%" /> -->
 </p>
 
@@ -13,8 +13,8 @@
 
 <p align="center">
   <b><a href="https://github.com/nikbandi">GitHub</a></b> |
-  <b><a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a></b> |
-  <b><a href="mailto:YOUR-EMAIL">Email</a></b>
+  <b><a href="https://www.linkedin.com/in/sri-nikhil-bandi">LinkedIn</a></b> |
+  <b><a href="mailto:nivasbandi1234@gmail.com">Email</a></b>
 </p>
 
 <p align="center">
